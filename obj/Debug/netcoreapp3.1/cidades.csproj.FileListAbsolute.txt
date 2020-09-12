@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\cidades\obj\Debug\netcoreapp3.1\cidades.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\cidades\obj\Debug\netcoreapp3.1\cidades.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\cidades\obj\Debug\netcoreapp3.1\cidades.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\cidades\obj\Debug\netcoreapp3.1\cidades.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\cidades\bin\Debug\netcoreapp3.1\cidades.exe
+C:\Users\POSITIVO\Desktop\PC1\cidades\bin\Debug\netcoreapp3.1\cidades.deps.json
+C:\Users\POSITIVO\Desktop\PC1\cidades\bin\Debug\netcoreapp3.1\cidades.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\cidades\bin\Debug\netcoreapp3.1\cidades.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\cidades\bin\Debug\netcoreapp3.1\cidades.dll
+C:\Users\POSITIVO\Desktop\PC1\cidades\bin\Debug\netcoreapp3.1\cidades.pdb
+C:\Users\POSITIVO\Desktop\PC1\cidades\obj\Debug\netcoreapp3.1\cidades.dll
+C:\Users\POSITIVO\Desktop\PC1\cidades\obj\Debug\netcoreapp3.1\cidades.pdb
+C:\Users\POSITIVO\Desktop\PC1\cidades\obj\Debug\netcoreapp3.1\cidades.genruntimeconfig.cache
